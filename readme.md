@@ -6,6 +6,7 @@
 Chú thích: 
 * Container là một chuẩn đóng gói code + các thư viện liên quan của một app giúp cho việc cài đặt nhanh trên các hệ điều hành khác nhau
 * Container là ảo hóa các tầng ứng dụng cho phép đóng gói code + thư viện. Nhiều container có thể chạy trên cùng một máy và cùng chia sẻ tài nguyên của hệ điều hành, mỗi container chạy trên một process riêng, vì thế container nhẹ hơn máy ảo rất nhiều.
+* Docker image có thể coi là bản vẽ kiến trúc, --> docker run --> tạo ra các docker container
 
 --> Trình tự:
 
